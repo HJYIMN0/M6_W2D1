@@ -409,6 +409,7 @@ MonoBehaviour:
     type: 3}
   cubeMaterial: {fileID: 2100000, guid: 9e8493b68b26be64cb7fd2eb89aa3456, type: 2}
   poolSize: 5
+  poolCapacity: 15
   _sphereRadius: 5
   _delayBetweenCubes: 0.5
 --- !u!4 &1615891311
